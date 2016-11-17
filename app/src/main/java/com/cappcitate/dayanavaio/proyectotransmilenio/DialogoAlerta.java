@@ -5,6 +5,8 @@ import android.app.AlertDialog;
 import android.app.DialogFragment;
 import android.os.Bundle;
 
-public class DialogoAlerta void DialogFragment {
+
+public class DialogoAlerta import DialogFragment {
+
 
 }
