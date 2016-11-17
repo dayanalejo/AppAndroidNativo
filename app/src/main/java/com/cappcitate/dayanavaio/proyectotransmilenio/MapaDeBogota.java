@@ -8,7 +8,7 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class MapaDeBogota extends FragmentActivity {
+public class MapaDeBogota import FragmentActivity {
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
 
